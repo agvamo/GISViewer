@@ -1,5 +1,7 @@
 A simple GIS app written in Java
 
+Run SwingGISTool.java to run the app.
+
 What's working:
 -Import Shapefile function from button in toolbar and Menu Item.
 -Show/Hide Toolbar Checkbox in Toolbar Menu Item.
