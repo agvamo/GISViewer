@@ -12,8 +12,8 @@ Now the project should be imported. It's called GISViewer in your Eclipse Packag
 Run SwingGISTool.java to run the app.
 
 ## Functionality
-- [X] Import Shapefile function from button in toolbar and Menu Item. Download a shp file and check, it should be working.
 - [X] Show/Hide Toolbar Checkbox in Toolbar Menu Item.
+- [X] Import Shapefile
 - [ ] Export Shapefile
 - [ ] Import CSV
 - [ ] Export CSV
